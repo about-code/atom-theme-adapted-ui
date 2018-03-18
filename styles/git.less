@@ -5,8 +5,8 @@
 // Used to color git status
 
 .status          { color: @text-color; }
-.status-added    { color: @text-color-success; } // green
-.status-ignored  { color: @text-color-subtle; }  // faded
-.status-modified { color: @text-color-warning; } // orange
-.status-removed  { color: @text-color-error; }   // red
-.status-renamed  { color: @text-color-info; }    // blue
+.status-added    { color: @text-git-untracked; }
+.status-ignored  { color: @text-git-ignored; }
+.status-modified { color: @text-git-modified; }
+.status-removed  { color: @text-git-deleted; }
+.status-renamed  { color: @text-git-modified; }

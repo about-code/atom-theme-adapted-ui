@@ -1,13 +1,14 @@
 {
-  "name": "ui-theme-template",
+  "name": "atom-theme-adapted-ui",
   "theme": "ui",
   "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "description": "Dark theme for Atom editor integrating with Adapta UI theme. Use e.g. with atom-theme-adapted-syntax.",
   "keywords": [
     "ui",
-    "theme"
+    "theme",
+    "adapta"
   ],
-  "repository": "https://github.com/atom-community/ui-theme-template",
+  "repository": "https://github.com/about-code/atom-theme-adapted-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

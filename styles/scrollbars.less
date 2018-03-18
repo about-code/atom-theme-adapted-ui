@@ -1,0 +1,27 @@
+::-webkit-scrollbar {
+    width: 5px;
+    height: 18px;
+
+    &-track {
+         border: 0px;
+         border-radius: 0px;
+         background-color: @scrollbar-background-color !important;
+     }
+
+     &-thumb {
+         background-color: @scrollbar-highlight-color !important;
+         border: @scrollbar-highlight-border;
+         border-radius: 0px;
+     }
+
+     &-thumb:hover {
+       background-color: @scrollbar-highlight-hover-color !important;
+       border: @scrollbar-highlight-hover-border;
+       border-radius: 0px;
+     }
+}
+
+// for new opened files
+.vertical-scrollbar {
+    width: 5px !important;
+}

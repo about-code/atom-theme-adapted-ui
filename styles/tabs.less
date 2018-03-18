@@ -7,7 +7,7 @@
 
 .tab-bar {
   background-color: @tab-bar-background-color;
-  border-bottom: 1px solid @base-border-color;
+  border-bottom: 0px solid @base-border-color;
 
   .tab {
     color: @text-color;
@@ -16,7 +16,9 @@
     font-size: @font-size;
     border-right: 1px solid @tab-border-color;
     background-color: @tab-background-color;
-    &.active {
+
+    .vertical &.active,
+    .right &.active {
       color: @text-color-selected;
       background-color: @tab-background-color-active;
     }
