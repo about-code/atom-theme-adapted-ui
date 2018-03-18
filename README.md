@@ -5,5 +5,6 @@
 
 An [Atom](https://atom.io) UI theme integrating with [Adapta](https://github.com/adapta-project) desktop theme.
 
+----
 
 Copyright (c) Andreas Martin
