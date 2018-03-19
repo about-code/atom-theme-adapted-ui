@@ -5,6 +5,11 @@
 
 An [Atom](https://atom.io) UI theme integrating with [Adapta](https://github.com/adapta-project) desktop theme.
 
+
+## Preview
+
+![Preview](https://github.com/about-code/atom-theme-adapted-ui/blob/master/images/preview.png)
+
 ----
 
 Copyright (c) Andreas Martin
