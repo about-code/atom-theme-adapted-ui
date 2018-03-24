@@ -12,7 +12,7 @@ The preview shows the UI theme and [atom-theme-adapted-syntax](https://github.co
 You can install both themes from Atom's integrated extension preferences page. VSCode users might want to check out [vscode-theme-adapted](https://github.com/about-code/vscode-theme-adapted).
 
 
-![Preview](https://github.com/about-code/atom-theme-adapted-ui/blob/master/images/preview.png)
+![Preview](https://github.com/about-code/atom-theme-adapted-ui/raw/master/images/preview.png)
 
 ----
 
