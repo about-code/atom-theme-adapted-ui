@@ -2,7 +2,7 @@
   "name": "atom-theme-adapted-ui",
   "theme": "ui",
   "author": "Andreas Martin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Dark theme for Atom editor integrating with Adapta UI theme. Use e.g. with atom-theme-adapted-syntax.",
   "keywords": [
     "ui",
