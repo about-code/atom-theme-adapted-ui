@@ -9,7 +9,7 @@ An [Atom](https://atom.io) UI theme integrating with [Adapta](https://github.com
 ## Preview
 
 The preview shows the UI theme and [atom-theme-adapted-syntax](https://github.com/about-code/atom-theme-adapted-syntax) syntax theme.
-You can install both themes from Atom's integrated extension preferences page.
+You can install both themes from Atom's integrated extension preferences page. VSCode users might want to check out [vscode-theme-adapted](https://github.com/about-code/vscode-theme-adapted).
 
 
 ![Preview](https://github.com/about-code/atom-theme-adapted-ui/blob/master/images/preview.png)
